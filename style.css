@@ -5,18 +5,18 @@
 /* imagen de fondo de fer */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('images/yo.jpeg');
     background-size:cover;
     position:relative;
 }
 /* text css arriba de la imagen*/
-.hero_title {
+.yo_title {
     font-size: 4.5rem;
 }
-.hero_desc {
+.yo_desc {
     font-size: 2rem;
 }
-.hero-text {
+.yo-text {
     text-align: center;
     position: absolute;
     top: 50%;
@@ -26,7 +26,7 @@
 }
 
 /* espaciado en todas las secciones */
-#about, #services, #portfolio, #contact {
+#sobremi, #servicios, #portfolio, #contact {
     margin-top: 4rem;
     padding-top: 4rem;
 }
@@ -34,7 +34,7 @@
     padding-bottom: 4rem;
 }
 /* acerca de la imagen de la sección css */
-.imageAboutPage {
+.imagesobremiPag1 {
     width: 100%;
 }
 
